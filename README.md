@@ -1,6 +1,25 @@
 #  iOS Design Guideline Notes
 Notes from the Code with Chris Design course module 4:
  https://learn.codewithchris.com/courses/take/design/lessons/25829963-lesson-2-app-architecture
+
+- [iOS Design Guideline Notes](#ios-design-guideline-notes)
+- [Interface Essentials](#interface-essentials)
+  - [Action Sheets](#action-sheets)
+  - [Activity Views](#activity-views)
+  - [Alerts](#alerts)
+  - [Popover](#popover)
+  - [Tables](#tables)
+  - [WebViews](#webviews)
+- [Interface Essentials - Controls](#interface-essentials---controls)
+  - [Buttons](#buttons)
+  - [Page Controls](#page-controls)
+  - [Pickers](#pickers)
+  - [Pull Down Menu](#pull-down-menu)
+  - [Progress Indicator](#progress-indicator)
+  - [Segmented Views](#segmented-views)
+  - [Steppers](#steppers)
+  - [Toggle](#toggle)
+  - [TextField](#textfield)
 There are seven major experiences that shape an app's architecture:
 1. Launching
     - Or splash screens

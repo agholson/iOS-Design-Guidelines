@@ -5,40 +5,40 @@
       location = "container:"
       name = "img">
       <FileRef
-         location = "group:action_sheet.png">
+         location = "group:img/action_sheet.png">
       </FileRef>
       <FileRef
-         location = "group:pageControls.png">
+         location = "group:img/activity_views.png">
       </FileRef>
       <FileRef
-         location = "group:popover.png">
+         location = "group:img/alert.png">
       </FileRef>
       <FileRef
-         location = "group:tables.png">
+         location = "group:img/newPicker.png">
       </FileRef>
       <FileRef
-         location = "group:traditionalPicker.png">
+         location = "group:img/pageControls.png">
       </FileRef>
       <FileRef
-         location = "group:activity_views.png">
+         location = "group:img/popover.png">
       </FileRef>
       <FileRef
-         location = "group:newPicker.png">
+         location = "group:img/pullDownMenu.png">
       </FileRef>
       <FileRef
-         location = "group:segments.png">
+         location = "group:img/segments.png">
       </FileRef>
       <FileRef
-         location = "group:toggles.png">
+         location = "group:img/stepper.png">
       </FileRef>
       <FileRef
-         location = "group:stepper.png">
+         location = "group:img/tables.png">
       </FileRef>
       <FileRef
-         location = "group:pullDownMenu.png">
+         location = "group:img/toggles.png">
       </FileRef>
       <FileRef
-         location = "group:/Users/leone/IOS_Apps/Module4DesignGuidelines/alert.png">
+         location = "group:img/traditionalPicker.png">
       </FileRef>
    </Group>
    <FileRef
