@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "img">
+      <FileRef
+         location = "group:action_sheet.png">
+      </FileRef>
+      <FileRef
+         location = "group:pageControls.png">
+      </FileRef>
+      <FileRef
+         location = "group:popover.png">
+      </FileRef>
+      <FileRef
+         location = "group:tables.png">
+      </FileRef>
+      <FileRef
+         location = "group:traditionalPicker.png">
+      </FileRef>
+      <FileRef
+         location = "group:activity_views.png">
+      </FileRef>
+      <FileRef
+         location = "group:newPicker.png">
+      </FileRef>
+      <FileRef
+         location = "group:segments.png">
+      </FileRef>
+      <FileRef
+         location = "group:toggles.png">
+      </FileRef>
+      <FileRef
+         location = "group:stepper.png">
+      </FileRef>
+      <FileRef
+         location = "group:pullDownMenu.png">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/leone/IOS_Apps/Module4DesignGuidelines/alert.png">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>
